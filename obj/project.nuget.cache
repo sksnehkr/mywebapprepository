@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkXCP2FxvpkjLvpI3amUE6wxA1kEDctN5688VBbf68YbozH5f7zfkleoxGdINHI29hsI25ShuxQaA4k58YBm4w==",
+  "success": true,
+  "projectFilePath": "C:\\AZ-204-HOL\\MyazurewebappSolution\\Myazurewebapp\\Myazurewebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabajyoti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
